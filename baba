@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,A Fazenda
+https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Ce0126129ff658f4006543d66b4c77026%3Bbase64np%3B2r9MCGZEBympgLA%21/amlst%3A2r-0EXsPAii2wDwD/chunklist_b507904.m3u8
+#EXTINF:-1,Fox
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_aa0fe10ba631c9f10d02bd134f06dbe9dc5456f6/playlist.m3u8
+#EXTINF:-1,Telecine Pipoca
+http://edge-aws.aovivo.club/hls/s:78.47.74.192/telecinepipoca_fd937516_82c63c7b0e86b13ff9ecc9ecc78f3c94ab41cb8c.m3u8
+#EXTINF:-1,HBO2
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hbo2720p_05a53e36_769c65b48436188922695b96545d2c5c78efb805.m3u8
